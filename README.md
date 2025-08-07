@@ -15,7 +15,7 @@
 
 💬 **Ask me about:** Next.js · React · Python · DSA
 
-📩 **How to reach me:** chhavidhankhar@gmail.com
+📩 **How to reach me:** chhavidhankhar07@gmail.com
 
 ### Connect with me  
 <a href="https://x.com/chhavidh07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
