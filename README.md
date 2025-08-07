@@ -1,7 +1,7 @@
 <!-- Centered Title -->
 <h1 align="center">Hi, I'm Chhavi Dhankhar 👋</h1>
 
-<p align="center">Software Engineer | Building AI & Full-stack Projects | Always building and learning something</p>
+<p align="center">Software Engineer | Full-stack & AI Projects | Always building and learning something</p>
 
 <br/>
 
