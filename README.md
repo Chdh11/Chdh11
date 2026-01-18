@@ -5,9 +5,6 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
 <!--🚀 I'm currently working on: [Voice-to-Post Generator](https://github.com/chhavidhankhar/voice-to-post-generator)-->
 
@@ -23,16 +20,7 @@
 <a href="https://www.linkedin.com/in/chhavi-dhankhar-a488a9228/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@chhavidhankhar07"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
 
-</td>
 
-<td width="50%" align="center">
-  
-<!-- Girl coding animation -->
-<img src="https://camo.githubusercontent.com/a69ef1e4a173201181c22ac940c8b17935229d4d45ac5276631cbf4ba3d21db4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" width="80%" alt="girl coding gif" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -72,14 +60,5 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chdh11&show_icons=true&theme=radical" alt="Chhavi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chdh11&layout=compact&theme=radical" alt="Top languages used" />
-</p>
-
----
 
